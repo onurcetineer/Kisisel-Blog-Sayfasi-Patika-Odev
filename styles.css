@@ -1,0 +1,28 @@
+.giris{
+    text-align: center;
+}
+ol{
+    list-style:none;
+}
+a{
+    text-align: center;
+   
+    color: #282828;
+    text-decoration: underline;
+}
+img{
+    width: 600px;
+}
+.gorsel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
